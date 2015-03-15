@@ -1,15 +1,14 @@
 # AngularJS seven segment display directive
 
-[TODO - brief summary]
+An angular directive for 7 segment display.
+Check out the demo below!
 
 ## Demo
 http://kennyhyun.github.io/angular-7seg/
 
 ## Dependencies
 - required:
-	[TODO]
-- optional
-	[TODO]
+	AngularJS
 
 See `bower.json` and `index.html` in the `gh-pages` branch for a full list / more details
 
