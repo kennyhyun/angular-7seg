@@ -3,7 +3,7 @@
 [TODO - brief summary]
 
 ## Demo
-http://kenny.github.io/angular-7seg/
+http://kennyhyun.github.io/angular-7seg/
 
 ## Dependencies
 - required:
@@ -20,14 +20,14 @@ See `bower.json` and `index.html` in the `gh-pages` branch for a full list / mor
 2. include the files in your app
 	1. `7seg.min.js`
 	2. `7seg.less` OR `7seg.min.css` OR `7seg.css`
-3. include the module in angular (i.e. in `app.js`) - `kenny.angular-7seg`
+3. include the module in angular (i.e. in `app.js`) - `kennyhyun.angular-7seg`
 
 See the `gh-pages` branch, files `bower.json` and `index.html` for a full example.
 
 
 ## Documentation
 See the `7seg.js` file top comments for usage examples and documentation
-https://github.com/kenny/angular-7seg/blob/master/7seg.js
+https://github.com/kennyhyun/angular-7seg/blob/master/7seg.js
 
 
 ## Development
