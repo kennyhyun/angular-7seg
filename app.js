@@ -6,7 +6,7 @@
 'use strict';
 
 angular.module('myApp', [
-'ngRoute', 'ngSanitize', 'ngTouch', 'ngAnimate',		//additional angular modules
+'ngRoute', // 'ngSanitize', 'ngTouch', 'ngAnimate',		//additional angular modules
 'kenny.angular-7seg'
 ]).
 config(['$routeProvider', '$locationProvider', '$compileProvider', function($routeProvider, $locationProvider, $compileProvider) {

@@ -84,8 +84,8 @@ module.exports = function(grunt) {
 				},
 				build: {
 					files:  {},
-					src:    '7seg.js',
-					dest:   '7seg.min.js'
+					src:    'ut-7seg.js',
+					dest:   'ut-7seg.min.js'
 				}
 			},
 			less: {
@@ -94,14 +94,14 @@ module.exports = function(grunt) {
 					},
 					files: {
 						"main.css": "_base.less",
-						"7seg.css": "_7seg.less"
+						"ut-7seg.css": "_ut-7seg.less"
 					}
 				}
 			},
 			cssmin: {
 				dev: {
-					src: ['7seg.css'],
-					dest: '7seg.min.css'
+					src: ['ut-7seg.css'],
+					dest: 'ut-7seg.min.css'
 				}
 			}/*,
 			karma: {
