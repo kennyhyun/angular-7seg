@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="7seg_g.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="203.76078"
+     inkscape:cy="-16.8944"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1178"
+     inkscape:window-height="1302"
+     inkscape:window-x="14"
+     inkscape:window-y="183"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4005" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="7"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.82740104;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.42718446;stroke-dasharray:none;display:inline"
+       d="m 197.23527,517.98418 c -17.57087,14.90478 -35.14178,29.80952 -52.71272,44.71421 8.12872,15.06517 22.24374,27.82321 32.67073,42.00265 5.33217,12.22716 22.28346,4.83518 33.58631,6.82323 113.05195,-0.22939 226.10845,0.45713 339.15752,-0.34264 17.85305,-15.20927 35.7061,-30.41857 53.55909,-45.62792 -8.33658,-15.73861 -22.55447,-29.25678 -33.14423,-44.14471 -6.57865,-7.27227 -20.89436,-1.35057 -30.56033,-3.28742 -114.19027,0.10156 -228.37848,-0.75666 -342.55637,-0.1374 z"
+       id="path3991"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

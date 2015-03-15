@@ -1,1 +1,34 @@
-/* ut-7seg */
+/* ky-ut-7seg */
+
+@png-width: 54px;
+@png-height: 91px;
+
+.sevenseg {
+
+  position: relative;
+  display: inline-block;
+  width: @png-width; height: @png-height;
+  &.colon {width: (@png-width / 2);}
+
+  span {
+    width: @png-width; height: @png-height;
+    position: absolute;
+    top: 0; left: 0;
+    background-size: @png-width @png-height;
+    background-repeat: no-repeat;
+
+    &.seg-a {background-image: data-uri("./images/7seg_a.svg");}
+    &.seg-b {background-image: data-uri("./images/7seg_b.svg");}
+    &.seg-c {background-image: data-uri("./images/7seg_c.svg");}
+    &.seg-d {background-image: data-uri("./images/7seg_d.svg");}
+    &.seg-e {background-image: data-uri("./images/7seg_e.svg");}
+    &.seg-f {background-image: data-uri("./images/7seg_f.svg");}
+    &.seg-g {background-image: data-uri("./images/7seg_g.svg");}
+    &.seg-h {background-image: data-uri("./images/7seg_h.svg");}
+    &.seg-dp {background-image: data-uri("./images/7seg_h.svg");}
+    &.seg-am {background-image: data-uri("./images/am.svg");}
+    &.seg-pm {background-image: data-uri("./images/pm.svg");}
+    &.seg-sun {background-image: data-uri("./images/sun.svg");}
+    &.colon {background-image: data-uri("./images/colon.svg");background-position: (-@png-width*0.3) 5px;}
+  }
+}
